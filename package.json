@@ -1,0 +1,14 @@
+{
+  "name": "rabbit_mq_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "private": true,
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
